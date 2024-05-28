@@ -2,7 +2,7 @@
 module.exports = [
   {
     title: 'Web Monitoring Camera',
-    external: 'web-monitoring-nextjs-mqtt.vercel.app',
+    external: 'https://web-monitoring-nextjs-mqtt.vercel.app',
     github: 'https://github.com/DeklanMA/Web-Monitoring-Nextjs-mqtt',
     descriptionHtml:
       "Web Monitoring Camera is a web application that can monitor the camera's position and temperature using the MQTT protocol. This project is built using the Next.js framework, MQTT, and TailwindCSS. <a target='_blank' rel='noreferrer' href='web-monitoring-nextjs-mqtt.vercel.app'>Go</a> ",
