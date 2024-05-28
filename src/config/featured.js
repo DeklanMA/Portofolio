@@ -1,30 +1,30 @@
 /* eslint-disable max-len */
 module.exports = [
   {
-    title: 'NextUI',
-    cover: '/nextui.png',
-    github: 'https://github.com/nextui-org/nextui',
-    external: 'https://nextui.org',
+    title: 'GetCrew',
+    cover: '/getcrew.png',
+    github: '#',
+    external: '#',
     descriptionHtml:
-      'React UI library with SSR support, fully customizable, responsive adaptative components, dark mode support, beautiful, modern and fast. <a target="_blank" rel="noreferrer" href="https://nextui.org">Go there</a> ',
-    techs: ['React', 'Typescript', 'Styled JSX'],
+      'using Nextjs with SSR, getcrew landing page and employer landing page, and internal admin and employer admin dashboards. <a target="_blank" rel="noreferrer" href="#">Go</a> ',
+    techs: ['NextJS', 'Typescript', 'TailwindCSS'],
   },
   {
-    title: 'Devcover',
-    cover: '/devcover.jpg',
-    github: 'https://github.com/jrgarciadev/dev-cover',
-    external: 'https://devcover.me',
+    title: 'SMK Skill Village Islamic',
+    cover: '/skill.png',
+    github: '#',
+    external: 'https://skillageislamic.sch.id',
     descriptionHtml:
-      'I won the <a target="_blank" rel="noreferrer" href="https://vercel.com">Vercel</a> & <a target="_blank" rel="noreferrer" href="https://hashnode.com">Hashnode</a> <a target="_blank" rel="noreferrer" href="https://townhall.hashnode.com/vercelhashnode-hackathon-winners">Hackaton</a> with this project which is the easiest way to generate a developer portfolio. Devcover collects the developer data from Github, Hashnode and Dev.to sites to build a great porfolio just with their Github username <a target="_blank" rel="noreferrer" href="https://blog.jrgarciadev.com/devcover-easiest-way-to-generate-a-developer-portfolio">Read blog</a> ',
-    techs: ['React', 'Javascript', 'Vercel'],
+      'changing the front view of the home web skillageislamic.sch.id and pursuing performance and Seo, using Laravel 11 and Blade. <a target="_blank" rel="noreferrer" href="https://skillageislamic.sch.id">Go</a> ',
+    techs: ['Laravel', 'bootstrap', 'Blade'],
   },
   {
-    title: 'React Iconly',
-    cover: '/react-iconly.png',
-    github: 'https://github.com/jrgarciadev/react-iconly',
-    external: 'https://react-iconly.jrgarciadev.com',
+    title: 'Website IOT Water Reservoir Monitoring',
+    cover: '/watertank.png',
+    github: 'https://github.com/DeklanMA/Water-Tank-Monitoring',
+    external: '#',
     descriptionHtml:
-      'Beautiful and pixel perfect React Icon Library, <a target="_blank" rel="noreferrer" href="https://piqodesign.gumroad.com/l/iconly">Iconly</a> is one of the options that is being used by designers and developers today, so I decided to create a library for React / Next.js / Gatsby that facilitates its use and that also allows us to customize any icon according to our needs.  <a target="_blank" rel="noreferrer" href="https://dev.to/jrgarciadev/beautiful-and-pixel-perfect-react-icon-library-2fnd">Blog Post</a>',
-    techs: ['React', 'Library', 'Icons'],
+      'This project is an Internet of Things (IoT) based water tank monitoring system developed using the Laravel framework. The main goal of this project is to monitor and provide real-time information about the water level in the tank, as well as offer a user-friendly web interface for data visualization. <a target="_blank" rel="noreferrer" href="https://github.com/DeklanMA/Water-Tank-Monitoring">Go</a> ',
+    techs: ['Laravel', 'Flask', 'ChartJS', 'TailwindCSS', 'Python', 'Esp32', 'MQTT', 'MySQL'],
   },
 ];

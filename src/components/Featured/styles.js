@@ -148,6 +148,7 @@ export const StyledProject = styled.div`
   .project-title {
     color: ${({ theme }) => theme.text.default};
     font-size: clamp(24px, 5vw, 28px);
+    z-index: 50;
 
     @media (max-width: ${(props) => props.theme.breakpoints.md}) {
       margin: 0 0 20px;
