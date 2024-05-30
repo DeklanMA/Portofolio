@@ -40,7 +40,6 @@ const Featured = () => {
                     className="project-description"
                     dangerouslySetInnerHTML={{ __html: descriptionHtml }}
                   />
-
                   {techs.length && (
                     <ul className="project-tech-list">
                       {techs.map((tech) => (
@@ -48,7 +47,6 @@ const Featured = () => {
                       ))}
                     </ul>
                   )}
-
                   <StyledProjectLinks>
                     {github && (
                       <a rel="noreferrer" target="_blank" href={github} aria-label="GitHub Link">
