@@ -28,13 +28,13 @@ const BaseLayout = ({ children }) => {
           key="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@jrgarciadev" />
+        {/* <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@jrgarciadev" /> */}
         <meta property="og:site_name" content="Deklan Malik Akbar | Web & Mobile developer" />
         <meta property="og:type" content="website" />
         <meta property="og:title" content="Deklan Malik Akbar | Web & Mobile developer" />
         <meta property="og:locale" content="en" />
-        <meta property="og:url" content="https://jrgarciadev.com" />
+        <meta property="og:url" content="https://deklanma.vercel.app/" />
         <meta
           name="description"
           content="Hello!  I'm a software developer based in West Java, specializing in building amazing websites
@@ -44,8 +44,8 @@ const BaseLayout = ({ children }) => {
           name="keywords"
           content="Developer, Javascript, Freelancer, React, React native, PHP, Laravel Developer, Vue JS Developer, React Developer,Typescript"
         />
-        <meta property="og:image" content="https://jrgarciadev.com/avatar.jpeg" />
-        <meta property="twitter:image" content="https://jrgarciadev.com/avatar.jpeg" />
+        <meta property="og:image" content="/public/deklan.webp" />
+        <meta property="twitter:image" content="/public/deklan.webp" />
       </Head>
       {children}
     </div>
