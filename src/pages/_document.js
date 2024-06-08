@@ -25,6 +25,11 @@ export default class MyDocument extends Document {
                   `,
               }}
             />
+            <script
+              type="text/javascript"
+              charset="UTF-8"
+              src="//cdn.cookie-script.com/s/4fecdfed33fd00cd2ca5067d3966fb1b.js"
+            />
           </>
         )}
         <Head />
