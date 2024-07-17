@@ -28,7 +28,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'www.linkedin.com/in/deklanma',
+      url: 'https://linkedin.com/in/deklanma',
     },
     {
       name: 'Instagram',
