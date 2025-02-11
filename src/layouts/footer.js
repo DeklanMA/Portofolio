@@ -37,7 +37,7 @@ const Footer = () => {
       </StyledMadeWith>
 
       <StyledCredit tabindex="-1">
-        <a rel="noreferrer" target="_blank" href="https://github.com/bchiang7/v4">
+        <a rel="noreferrer" target="_blank" href="v4.brittanychiang.com/">
           <div>Adapted from the Brittany Chiang Portfolio</div>
         </a>
       </StyledCredit>
