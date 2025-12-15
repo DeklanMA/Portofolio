@@ -22,14 +22,15 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I&apos;m Junior, a Software Developer based in Subang, Indonesia.</p>
+            <p>Hello! I&apos;m Deklan Malik Akbar, a Software Engineer based in Indonesia.</p>
             <p>
-              I enjoy creating beautiful and reliable applications for internet and phones.
+              I enjoy building reliable and scalable web applications with a strong focus on
+              back-end development.
               <br />
-              My goal is to always build scalable products and performant experiences.
+              My goal is to deliver clean, performant solutions that provide real value to users.
             </p>
             <br />
-            <p>Here are the Technology Stacks that I am good at:</p>
+            <p>Here are some of the technologies I&apos;m proficient in:</p>
           </div>
           <ul className="skills-list">
             {skills && skills.map((skill) => <li key={skill}>{skill}</li>)}

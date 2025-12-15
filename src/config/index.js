@@ -10,9 +10,10 @@ module.exports = {
     'JavaScript',
     'TypeScript',
     'PHP',
+    'Golang',
     'Python',
     'React Native',
-    'React',
+    'React.JS',
     'Laravel',
     'Express.js',
     'Next.js',
@@ -20,6 +21,7 @@ module.exports = {
     'mySQL',
     'MongoDB',
     'GraphQL',
+    'Java',
   ],
   socialMedia: [
     {
